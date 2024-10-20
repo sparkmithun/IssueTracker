@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.auth.dtos;
+package com.mithunm.IssueTracker.auth.dtos;
 
-import com.suryakn.IssueTracker.entity.Role;
+import com.mithunm.IssueTracker.entity.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

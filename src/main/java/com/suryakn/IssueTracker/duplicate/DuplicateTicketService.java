@@ -1,7 +1,7 @@
-package com.suryakn.IssueTracker.duplicate;
+package com.mithunm.IssueTracker.duplicate;
 
-import com.suryakn.IssueTracker.entity.VectorTable;
-import com.suryakn.IssueTracker.repository.VectorTableRepository;
+import com.mithunm.IssueTracker.entity.VectorTable;
+import com.mithunm.IssueTracker.repository.VectorTableRepository;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.beans.factory.annotation.Value;

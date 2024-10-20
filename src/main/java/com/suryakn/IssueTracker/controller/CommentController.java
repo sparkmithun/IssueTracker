@@ -1,7 +1,7 @@
-package com.suryakn.IssueTracker.controller;
+package com.mithunm.IssueTracker.controller;
 
-import com.suryakn.IssueTracker.dto.CommentDto;
-import com.suryakn.IssueTracker.service.CommentService;
+import com.mithunm.IssueTracker.dto.CommentDto;
+import com.mithunm.IssueTracker.service.CommentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

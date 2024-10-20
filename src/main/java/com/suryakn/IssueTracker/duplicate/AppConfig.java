@@ -1,4 +1,4 @@
-package com.suryakn.IssueTracker.duplicate;
+package com.mithunm.IssueTracker.duplicate;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

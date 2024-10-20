@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.repository;
+package com.mithunm.IssueTracker.repository;
 
-import com.suryakn.IssueTracker.entity.Comment;
+import com.mithunm.IssueTracker.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

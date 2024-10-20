@@ -1,4 +1,4 @@
-package com.suryakn.IssueTracker.config;
+package com.mithunm.IssueTracker.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

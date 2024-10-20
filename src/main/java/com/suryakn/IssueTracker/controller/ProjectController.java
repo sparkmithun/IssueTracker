@@ -1,11 +1,11 @@
-package com.suryakn.IssueTracker.controller;
+package com.mithunm.IssueTracker.controller;
 
-import com.suryakn.IssueTracker.dto.ProjectDto;
-import com.suryakn.IssueTracker.dto.ProjectRequest;
-import com.suryakn.IssueTracker.dto.TicketResponse;
-import com.suryakn.IssueTracker.entity.Project;
-import com.suryakn.IssueTracker.service.ProjectService;
-import com.suryakn.IssueTracker.service.TicketService;
+import com.mithunm.IssueTracker.dto.ProjectDto;
+import com.mithunm.IssueTracker.dto.ProjectRequest;
+import com.mithunm.IssueTracker.dto.TicketResponse;
+import com.mithunm.IssueTracker.entity.Project;
+import com.mithunm.IssueTracker.service.ProjectService;
+import com.mithunm.IssueTracker.service.TicketService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.dto;
+package com.mithunm.IssueTracker.dto;
 
-import com.suryakn.IssueTracker.entity.Project;
+import com.mithunm.IssueTracker.entity.Project;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

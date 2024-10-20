@@ -1,4 +1,4 @@
-package com.suryakn.IssueTracker.duplicate;
+package com.mithunm.IssueTracker.duplicate;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

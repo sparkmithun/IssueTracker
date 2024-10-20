@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.config;
+package com.mithunm.IssueTracker.config;
 
-import com.suryakn.IssueTracker.repository.UserRepository;
+import com.mithunm.IssueTracker.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

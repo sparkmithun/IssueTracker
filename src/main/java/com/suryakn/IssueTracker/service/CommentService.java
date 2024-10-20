@@ -1,11 +1,11 @@
-package com.suryakn.IssueTracker.service;
+package com.mithunm.IssueTracker.service;
 
-import com.suryakn.IssueTracker.dto.CommentDto;
-import com.suryakn.IssueTracker.entity.Comment;
-import com.suryakn.IssueTracker.entity.Ticket;
-import com.suryakn.IssueTracker.repository.CommentRepository;
-import com.suryakn.IssueTracker.repository.TicketRepository;
-import com.suryakn.IssueTracker.repository.UserRepository;
+import com.mithunm.IssueTracker.dto.CommentDto;
+import com.mithunm.IssueTracker.entity.Comment;
+import com.mithunm.IssueTracker.entity.Ticket;
+import com.mithunm.IssueTracker.repository.CommentRepository;
+import com.mithunm.IssueTracker.repository.TicketRepository;
+import com.mithunm.IssueTracker.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

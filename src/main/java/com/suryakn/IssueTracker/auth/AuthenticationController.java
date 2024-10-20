@@ -1,8 +1,8 @@
-package com.suryakn.IssueTracker.auth;
+package com.mithunm.IssueTracker.auth;
 
-import com.suryakn.IssueTracker.auth.dtos.AuthenticateRequest;
-import com.suryakn.IssueTracker.auth.dtos.AuthenticationResponse;
-import com.suryakn.IssueTracker.auth.dtos.RegisterRequest;
+import com.mithunm.IssueTracker.auth.dtos.AuthenticateRequest;
+import com.mithunm.IssueTracker.auth.dtos.AuthenticationResponse;
+import com.mithunm.IssueTracker.auth.dtos.RegisterRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

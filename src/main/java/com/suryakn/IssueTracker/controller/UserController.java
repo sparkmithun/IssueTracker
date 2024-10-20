@@ -1,7 +1,7 @@
-package com.suryakn.IssueTracker.controller;
+package com.mithunm.IssueTracker.controller;
 
-import com.suryakn.IssueTracker.dto.UserProjection;
-import com.suryakn.IssueTracker.service.UserService;
+import com.mithunm.IssueTracker.dto.UserProjection;
+import com.mithunm.IssueTracker.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.suryakn.IssueTracker.config;
+package com.mithunm.IssueTracker.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

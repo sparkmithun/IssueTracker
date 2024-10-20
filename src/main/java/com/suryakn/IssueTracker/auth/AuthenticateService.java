@@ -1,12 +1,12 @@
-package com.suryakn.IssueTracker.auth;
+package com.mithunm.IssueTracker.auth;
 
-import com.suryakn.IssueTracker.auth.dtos.AuthenticateRequest;
-import com.suryakn.IssueTracker.auth.dtos.AuthenticationResponse;
-import com.suryakn.IssueTracker.auth.dtos.RegisterRequest;
-import com.suryakn.IssueTracker.config.JwtService;
-import com.suryakn.IssueTracker.entity.Role;
-import com.suryakn.IssueTracker.entity.UserEntity;
-import com.suryakn.IssueTracker.repository.UserRepository;
+import com.mithunm.IssueTracker.auth.dtos.AuthenticateRequest;
+import com.mithunm.IssueTracker.auth.dtos.AuthenticationResponse;
+import com.mithunm.IssueTracker.auth.dtos.RegisterRequest;
+import com.mithunm.IssueTracker.config.JwtService;
+import com.mithunm.IssueTracker.entity.Role;
+import com.mithunm.IssueTracker.entity.UserEntity;
+import com.mithunm.IssueTracker.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.suryakn.IssueTracker.entity;
+package com.mithunm.IssueTracker.entity;
 
 public enum Role {
     USER,

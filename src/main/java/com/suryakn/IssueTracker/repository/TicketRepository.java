@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.repository;
+package com.mithunm.IssueTracker.repository;
 
-import com.suryakn.IssueTracker.entity.Ticket;
+import com.mithunm.IssueTracker.entity.Ticket;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

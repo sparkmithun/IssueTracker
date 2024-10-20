@@ -1,6 +1,6 @@
-package com.suryakn.IssueTracker.entity;
+package com.mithunm.IssueTracker.entity;
 
-import com.suryakn.IssueTracker.IssueTrackerApplication;
+import com.mithunm.IssueTracker.IssueTrackerApplication;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
